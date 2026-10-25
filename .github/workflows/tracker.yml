@@ -1,0 +1,32 @@
+name: upstream-tracker
+on:
+  schedule:
+    - cron: "0 * * * *"   # hourly
+  workflow_dispatch: {}
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Run tracker (detect changes + notify Feishu + re-sync mirrors)
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}
+          MIRROR_TOKEN: ${{ secrets.MIRROR_TOKEN }}
+        run: python3 track.py
+      - name: Commit updated tips back to state.json
+        if: ${{ !cancelled() }}
+        run: |
+          git config user.name "upstream-tracker"
+          git config user.email "41888435+upstream-tracker@users.noreply.github.com"
+          git add state.json
+          if git diff --cached --quiet; then
+            echo "state unchanged, nothing to commit"
+          else
+            git commit -m "track: update upstream tips $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push origin HEAD:main
+          fi

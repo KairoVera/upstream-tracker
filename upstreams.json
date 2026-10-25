@@ -1,0 +1,25 @@
+{
+  "upstreams": [
+    {
+      "id": "susfs4ksu",
+      "name": "SUSFS (simonpunk/susfs4ksu)",
+      "url": "https://gitlab.com/simonpunk/susfs4ksu.git",
+      "branches": ["gki-android12-5.10","gki-android13-5.10","gki-android13-5.15","gki-android14-5.15","gki-android14-6.1","gki-android15-6.6","gki-android16-6.12","master"],
+      "mirror": {"repo": "KairoVera/susfs4ksu-mirror", "all_branches": true, "tags": true}
+    },
+    {
+      "id": "wild-gci",
+      "name": "Wild GCI (GKI_KernelSU_SUSFS)",
+      "url": "https://github.com/WildKernels/GKI_KernelSU_SUSFS.git",
+      "branches": ["main"],
+      "mirror": null
+    },
+    {
+      "id": "sukisu-ultra",
+      "name": "SukiSU-Ultra",
+      "url": "https://github.com/SukiSU-Ultra/SukiSU-Ultra.git",
+      "branches": ["builtin","main","builtin-new"],
+      "mirror": null
+    }
+  ]
+}
