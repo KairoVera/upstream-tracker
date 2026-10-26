@@ -44,6 +44,7 @@
     "sukisu-ultra::susfs_new": "278d822a4ebd214bcfd774b7910cb11cdc560bb9",
     "sukisu-ultra::temporary_root": "609c04a4f725dd5bddcb70df66647c9b481a960f",
     "sukisu-ultra::throne_tracker": "bee9c4e9450b6b49b8be5eb6f5d8c42239b86bed",
-    "sukisu-ultra::version_spoof": "d3721559e3c8d6c6f28845cbd40199c03b09c044"
+    "sukisu-ultra::version_spoof": "d3721559e3c8d6c6f28845cbd40199c03b09c044",
+    "wild-gci::feature/usb-arsenal": "bc026be840d33c9479e4f65a332eb89c50b194a3"
   }
 }
