@@ -23,10 +23,10 @@
     "wild-gci::bore": "06488106d8ae16ba1c1303f746e6728a51d58be1",
     "wild-gci::dev": "75316259a3b00bbded2a151f0ff3184a4181ad22",
     "wild-gci::hz-1000": "79ac13bd4f90131c01995a569dc03e796c665d97",
-    "wild-gci::main": "5cbe70e8107e59fecfb0839b053906c4c0b34095",
+    "wild-gci::main": "9d43376b69c1a6be1ad6df5a61298cd7268e355a",
     "wild-gci::make": "0037faab3cc44ecaa49db3242ef6c8c9d16199e0",
     "wild-gci::old-main": "be22212f53caed220b661f0d90ec1c1a775490dd",
-    "sukisu-ultra::background": "5168156994e2fbe5246a20cbac820e69a45a1f81",
+    "sukisu-ultra::background": "42e928f051e763e1e1ffb75a8ed083017b70285d",
     "sukisu-ultra::builtin": "b59170724cdc05bf5dee8d8a8b182c5f1ddd60e3",
     "sukisu-ultra::builtin-new": "3510a932d908a23bce89bb5cf207da6c1e440a2f",
     "sukisu-ultra::chore/icon-license": "e07c94aaba302f891729d4c9919fc377bf499125",
@@ -39,7 +39,7 @@
     "sukisu-ultra::throne_tracker": "bee9c4e9450b6b49b8be5eb6f5d8c42239b86bed",
     "wild-gci::feature/usb-arsenal": "aaee5264c081d4afcbdb23f364ed5e9c9823f2a6",
     "wild-gci::ci/speed-ups": "df41c8ed8cb94f05d9dd7a39bba8d96f0365431d",
-    "sukisu-ultra::pr-1026-assets": "df5be39fee564e1a57248455f9605b3f14c465e6",
-    "sukisu-ultra::text": "ec17b34c478ffc3a0dacb8834996e261503144be"
+    "sukisu-ultra::text": "ec17b34c478ffc3a0dacb8834996e261503144be",
+    "sukisu-ultra::1": "91d216c50fc687b010cac230bccdd8da29b05dc3"
   }
 }
