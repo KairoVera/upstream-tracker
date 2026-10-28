@@ -23,10 +23,10 @@
     "wild-gci::bore": "06488106d8ae16ba1c1303f746e6728a51d58be1",
     "wild-gci::dev": "75316259a3b00bbded2a151f0ff3184a4181ad22",
     "wild-gci::hz-1000": "79ac13bd4f90131c01995a569dc03e796c665d97",
-    "wild-gci::main": "6b694c92b7ea242f080c7950171c254ee0f5f17f",
+    "wild-gci::main": "5cbe70e8107e59fecfb0839b053906c4c0b34095",
     "wild-gci::make": "0037faab3cc44ecaa49db3242ef6c8c9d16199e0",
     "wild-gci::old-main": "be22212f53caed220b661f0d90ec1c1a775490dd",
-    "sukisu-ultra::background": "99f1403fb753fcd82578b90369e528dae4c4eeea",
+    "sukisu-ultra::background": "671c5a69b63ba8ef1c0092b0448906dcf7c2f4fb",
     "sukisu-ultra::builtin": "b59170724cdc05bf5dee8d8a8b182c5f1ddd60e3",
     "sukisu-ultra::builtin-new": "3510a932d908a23bce89bb5cf207da6c1e440a2f",
     "sukisu-ultra::chore/icon-license": "e07c94aaba302f891729d4c9919fc377bf499125",
@@ -37,6 +37,7 @@
     "sukisu-ultra::old": "97af8532e17b0da2c04c555c3bc7e8644287ebf0",
     "sukisu-ultra::per-UID-App": "cd68d7b441e8a0d0c5c8f6931e8ab41e4ace3669",
     "sukisu-ultra::throne_tracker": "bee9c4e9450b6b49b8be5eb6f5d8c42239b86bed",
-    "wild-gci::feature/usb-arsenal": "aaee5264c081d4afcbdb23f364ed5e9c9823f2a6"
+    "wild-gci::feature/usb-arsenal": "aaee5264c081d4afcbdb23f364ed5e9c9823f2a6",
+    "wild-gci::ci/speed-ups": "df41c8ed8cb94f05d9dd7a39bba8d96f0365431d"
   }
 }
