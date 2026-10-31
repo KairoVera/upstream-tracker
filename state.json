@@ -8,7 +8,7 @@
     "susfs4ksu::gki-android13-5.15-dev": "7d77357cfa45afab00c677de67f36fbc325f9025",
     "susfs4ksu::gki-android14-5.15": "251a2ec4038ba241609fb4ad032ea0990cffa691",
     "susfs4ksu::gki-android14-6.1": "ee155a1ad4219804a7c54cb39dd4fa1b5c2a3fa4",
-    "susfs4ksu::gki-android14-6.1-dev": "a8e00d3b7648a33c283df3fe26e6a8d75b88d3ad",
+    "susfs4ksu::gki-android14-6.1-dev": "42bab41266e14533e9da7b3797afe0dbdc4a98ee",
     "susfs4ksu::gki-android15-6.6": "93114563fd6b08092b9ce8c0309738c921ac8bd1",
     "susfs4ksu::gki-android15-6.6-dev": "825c526acbc44e2cb7ea4c479aa51e2bc4ce3a90",
     "susfs4ksu::gki-android16-6.12": "6b60a305d418148bd311f4fc9bddedc82d99e1fc",
@@ -38,6 +38,6 @@
     "wild-gci::ci/speed-ups-v2": "14c1ba8d3e4dccd09eb5f0e12d23af8197cba099",
     "sukisu-ultra::feat/builtin-nyazygisk": "4f3293a868fc66b2a145740ae66bbb4019e95c3d",
     "sukisu-ultra::theme": "c9d5da2cd9546253fa109c2f4b0e5aa2483d207b",
-    "sukisu-ultra::ai_chat": "a70cca4fa68b573ba58a741b0524e75b67ab888f"
+    "sukisu-ultra::ai_chat": "7ebb63885bb0416ed1bb81f13d7efcab82d25000"
   }
 }
