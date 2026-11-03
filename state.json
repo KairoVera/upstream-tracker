@@ -31,11 +31,11 @@
     "sukisu-ultra::chore/icon-license": "e07c94aaba302f891729d4c9919fc377bf499125",
     "sukisu-ultra::dev": "19e257bd229d9b0a7ef1f3864ffcdb0d661fc06a",
     "sukisu-ultra::feat/manager-status-card-splash": "42ca33c101e9a8f4beac3d828dfbcda80ddc4c08",
-    "sukisu-ultra::main": "b34a3c98b027c21e1e12aee21122b9115657296e",
+    "sukisu-ultra::main": "b9fcdc05f94c8fdab1a5657db68e67bac3942020",
     "sukisu-ultra::old": "97af8532e17b0da2c04c555c3bc7e8644287ebf0",
     "wild-gci::ci/speed-ups-v2": "a366a06f98649aab457154b724af19b67ce59bc8",
     "sukisu-ultra::feat/builtin-nyazygisk": "4f3293a868fc66b2a145740ae66bbb4019e95c3d",
-    "sukisu-ultra::weblate-sukisu-ultra-manager": "ea0da62ba5773f3fc54ce5ed8fc67992d8b1e4ec",
-    "wild-gci::feat/usb-arsenal": "48354cf6763022f6bbe22e9b50a4823f95900c02"
+    "sukisu-ultra::weblate-sukisu-ultra-manager": "90d2d8bb368bba37a59ddf3a9d40085056a5277e",
+    "wild-gci::feat/usb-arsenal": "97f63cc3824543360a9eefda6362677c7ac2216d"
   }
 }
