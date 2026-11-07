@@ -35,9 +35,9 @@
     "sukisu-ultra::old": "97af8532e17b0da2c04c555c3bc7e8644287ebf0",
     "sukisu-ultra::feat/builtin-nyazygisk": "4f3293a868fc66b2a145740ae66bbb4019e95c3d",
     "sukisu-ultra::weblate-sukisu-ultra-manager": "90d2d8bb368bba37a59ddf3a9d40085056a5277e",
-    "wild-gci::feat/usb-arsenal": "fb1c0f258d16144725b8ea79aa9cdfe425860cd5",
+    "wild-gci::feat/usb-arsenal": "6300b2f513a8ddcd15b1ca450f8f3682d5a2c403",
     "sukisu-ultra::fix/ksuinit-vermagic-release-guard": "78691c6d50f9609e0325ff51a337a7b748271667",
-    "wild-gci::feat/cgroup-abi": "f3f26f5aca617fd41ff81955c10e4015f8c0dda7",
-    "wild-gci::feat/fanotify": "b19b54b63f52f54faf72891b7368a69ce6b7808e"
+    "wild-gci::feat/cgroup-abi": "7ab4862fdd98ee9f2ef55a33eb616382da7ea730",
+    "wild-gci::feat/fanotify": "5c503c762820553d5d018c4efcf7a35d124afdcc"
   }
 }
