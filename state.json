@@ -35,7 +35,7 @@
     "sukisu-ultra::old": "97af8532e17b0da2c04c555c3bc7e8644287ebf0",
     "sukisu-ultra::feat/builtin-nyazygisk": "4f3293a868fc66b2a145740ae66bbb4019e95c3d",
     "sukisu-ultra::weblate-sukisu-ultra-manager": "6b8bee91521df40f43c74d232ec97367fb73493d",
-    "wild-gci::feat/usb-arsenal": "29d1ec3b24e73a4edc312152642734b4fabc2ee1",
+    "wild-gci::feat/usb-arsenal": "f5b95532ce4a6ce76b2db0ba60e8dc149d951908",
     "sukisu-ultra::fix/ksuinit-vermagic-release-guard": "78691c6d50f9609e0325ff51a337a7b748271667",
     "wild-gci::feat/cgroup-abi": "38e6aad82724fe01efd3e3044eb7d0a9d5048d1a",
     "wild-gci::feat/fanotify": "e925ce333b026626eba6d308f8920e99c06df9fd"
