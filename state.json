@@ -21,9 +21,9 @@
     "susfs4ksu::sultan-shiba-susfs-minimal": "2841cbbc12ad11e1fa79df821f68fb4c51f8c255",
     "wild-gci::SND": "092c22c1aac555bbbba9a331edfb6e7865b8f0c3",
     "wild-gci::bore": "06488106d8ae16ba1c1303f746e6728a51d58be1",
-    "wild-gci::dev": "6052906542503519cfc9f63583fc2bd8b1a56344",
+    "wild-gci::dev": "65a9d8a9f729f00b86b7bf92a22e16f1c5c17998",
     "wild-gci::hz-1000": "79ac13bd4f90131c01995a569dc03e796c665d97",
-    "wild-gci::main": "c6d44eb9110888ad0cbc8e172d0d64eaa7df3e1e",
+    "wild-gci::main": "243bb5a9e72af82251605f1c5c51dab9146a2efd",
     "wild-gci::make": "0037faab3cc44ecaa49db3242ef6c8c9d16199e0",
     "wild-gci::old-main": "be22212f53caed220b661f0d90ec1c1a775490dd",
     "sukisu-ultra::builtin": "f9aa2fec23c3f4a06a935f69dc04cb85b261e7f3",
@@ -35,11 +35,12 @@
     "sukisu-ultra::old": "97af8532e17b0da2c04c555c3bc7e8644287ebf0",
     "sukisu-ultra::feat/builtin-nyazygisk": "4f3293a868fc66b2a145740ae66bbb4019e95c3d",
     "sukisu-ultra::weblate-sukisu-ultra-manager": "045690dc8998e015b1b2c3b22e069782824d72db",
-    "wild-gci::feat/usb-arsenal": "982525fc71bad11af70f4d79eac6d7a435e5c50a",
+    "wild-gci::feat/usb-arsenal": "d376e083a7d22884e59b863a2dfb2f44cb00deaf",
     "sukisu-ultra::fix/ksuinit-vermagic-release-guard": "78691c6d50f9609e0325ff51a337a7b748271667",
     "wild-gci::feat/cgroup-abi": "38e6aad82724fe01efd3e3044eb7d0a9d5048d1a",
     "wild-gci::feat/fanotify": "e925ce333b026626eba6d308f8920e99c06df9fd",
     "wild-gci::feat/cgroup-pids": "a08af66e755e7f68440ebd32e9b1773036d42686",
-    "wild-gci::feat/unicode-scoped": "ba6d99703b820b598b6a7caf28694d7cfc9289ab"
+    "wild-gci::feat/unicode-scoped": "ba6d99703b820b598b6a7caf28694d7cfc9289ab",
+    "wild-gci::feat/bbrv3": "24f78ca1b24fd1be2ebaffd215464f0d292a4877"
   }
 }
