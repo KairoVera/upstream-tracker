@@ -42,6 +42,6 @@
     "wild-gci::feat/cgroup-pids": "a08af66e755e7f68440ebd32e9b1773036d42686",
     "wild-gci::feat/unicode-scoped": "ba6d99703b820b598b6a7caf28694d7cfc9289ab",
     "wild-gci::feat/bbrv3": "24f78ca1b24fd1be2ebaffd215464f0d292a4877",
-    "sukisu-ultra::feat/builtin-zygisk": "005f008255d728421acb986e60a45becc87e938a"
+    "sukisu-ultra::feat/builtin-zygisk": "53ea1c44df86d0855e2814adbd92308d9d93dfb0"
   }
 }
