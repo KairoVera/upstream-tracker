@@ -26,22 +26,16 @@
     "wild-gci::main": "243bb5a9e72af82251605f1c5c51dab9146a2efd",
     "wild-gci::make": "0037faab3cc44ecaa49db3242ef6c8c9d16199e0",
     "wild-gci::old-main": "be22212f53caed220b661f0d90ec1c1a775490dd",
-    "sukisu-ultra::builtin": "f9aa2fec23c3f4a06a935f69dc04cb85b261e7f3",
-    "sukisu-ultra::builtin-new": "3fd4652a7c0a20d0ee5580b1da90bd16845b608d",
-    "sukisu-ultra::chore/icon-license": "e07c94aaba302f891729d4c9919fc377bf499125",
-    "sukisu-ultra::dev": "674aa00c18adc3d7ef4069c03018d6194230865a",
-    "sukisu-ultra::feat/manager-status-card-splash": "42ca33c101e9a8f4beac3d828dfbcda80ddc4c08",
-    "sukisu-ultra::main": "b2d01e8bcea80139be9076c63dcc9a6694691d72",
-    "sukisu-ultra::old": "97af8532e17b0da2c04c555c3bc7e8644287ebf0",
-    "sukisu-ultra::feat/builtin-nyazygisk": "84ac1242a0a099cdca0166a58f871e6c33804ddb",
-    "sukisu-ultra::weblate-sukisu-ultra-manager": "0d4fb503a90bec121270758f781ab058243c6857",
+    "sukisu-ultra::builtin": "4bec532dd447e2852aa8932afa768255350c103a",
+    "sukisu-ultra::builtin-new": "5a3ec4145059ed2c4f22c70a16a28a616e104c33",
+    "sukisu-ultra::dev": "c60f21b9e00e35e898f8d21e0612465b76b9beec",
+    "sukisu-ultra::main": "c60f21b9e00e35e898f8d21e0612465b76b9beec",
+    "sukisu-ultra::weblate-sukisu-ultra-manager": "5bba326dbfbd3abfcb4c6084dab7a104ec93c432",
     "wild-gci::feat/usb-arsenal": "4492cd0bf87aefb70d091b83997a5b36fc7553ba",
-    "sukisu-ultra::fix/ksuinit-vermagic-release-guard": "78691c6d50f9609e0325ff51a337a7b748271667",
     "wild-gci::feat/cgroup-abi": "38e6aad82724fe01efd3e3044eb7d0a9d5048d1a",
     "wild-gci::feat/fanotify": "e925ce333b026626eba6d308f8920e99c06df9fd",
     "wild-gci::feat/cgroup-pids": "a08af66e755e7f68440ebd32e9b1773036d42686",
     "wild-gci::feat/unicode-scoped": "ba6d99703b820b598b6a7caf28694d7cfc9289ab",
-    "wild-gci::feat/bbrv3": "24f78ca1b24fd1be2ebaffd215464f0d292a4877",
-    "sukisu-ultra::feat/builtin-zygisk": "e795198fa95fc4e50df1095961061d30e0f1a4c3"
+    "wild-gci::feat/bbrv3": "24f78ca1b24fd1be2ebaffd215464f0d292a4877"
   }
 }
