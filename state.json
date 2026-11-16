@@ -31,7 +31,7 @@
     "sukisu-ultra::dev": "c60f21b9e00e35e898f8d21e0612465b76b9beec",
     "sukisu-ultra::main": "c60f21b9e00e35e898f8d21e0612465b76b9beec",
     "sukisu-ultra::weblate-sukisu-ultra-manager": "5bba326dbfbd3abfcb4c6084dab7a104ec93c432",
-    "wild-gci::feat/usb-arsenal": "3a430ef6053d99019723ca7f5dddb0b7e55bba49",
+    "wild-gci::feat/usb-arsenal": "e29fe37782c16c0589c0fe4b20f714a2f4edc50a",
     "wild-gci::feat/cgroup-abi": "38e6aad82724fe01efd3e3044eb7d0a9d5048d1a",
     "wild-gci::feat/fanotify": "e925ce333b026626eba6d308f8920e99c06df9fd",
     "wild-gci::feat/cgroup-pids": "a08af66e755e7f68440ebd32e9b1773036d42686",
