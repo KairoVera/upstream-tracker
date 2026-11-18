@@ -36,6 +36,9 @@
     "wild-gci::feat/fanotify": "e925ce333b026626eba6d308f8920e99c06df9fd",
     "wild-gci::feat/cgroup-pids": "a08af66e755e7f68440ebd32e9b1773036d42686",
     "wild-gci::feat/unicode-scoped": "ba6d99703b820b598b6a7caf28694d7cfc9289ab",
-    "wild-gci::feat/bbrv3": "24f78ca1b24fd1be2ebaffd215464f0d292a4877"
+    "wild-gci::feat/bbrv3": "24f78ca1b24fd1be2ebaffd215464f0d292a4877",
+    "wild-gci::droidspaces-resource-limits": "ecc22683918eacdfd6b46e5a31a5b082ccb3b4c0",
+    "wild-gci::tmp/cfs-only": "b63a325f7628e2d07c2ff6f4e3e4cd794256e8d6",
+    "wild-gci::tmp/pids-only": "67da4f45776a0dd64ef69d55228c5cbefe1b9292"
   }
 }
