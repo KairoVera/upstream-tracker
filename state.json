@@ -40,6 +40,8 @@
     "wild-gci::droidspaces-resource-limits": "fd815b66c5c1ab1b4068ad194601f73302e83652",
     "wild-gci::tmp/cfs-only": "b63a325f7628e2d07c2ff6f4e3e4cd794256e8d6",
     "wild-gci::tmp/pids-only": "67da4f45776a0dd64ef69d55228c5cbefe1b9292",
-    "wild-gci::tmp/no-cfs": "cc336818c990e3c5c2a572ae975ca1a29a32a40e"
+    "wild-gci::tmp/no-cfs": "cc336818c990e3c5c2a572ae975ca1a29a32a40e",
+    "wild-gci::apex": "69de659946f43a80a49a50d8a594b328373c5370",
+    "wild-gci::kmi": "81fe2061ea2763fcf4b118056bf9ddaa2cc84578"
   }
 }
